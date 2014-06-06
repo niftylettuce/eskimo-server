@@ -1,0 +1,17 @@
+{
+  "name": "eskimo-server",
+  "version": "0.0.1",
+  "description": "Eskimo server is a component used by Eskimo",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/niftylettuce/eskimo-server.git"
+  },
+  "author": "Nick Baugh <niftylettuce@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/niftylettuce/eskimo-server/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/niftylettuce/eskimo-server",
+  "dependencies": {}
+}
