@@ -1,7 +1,7 @@
 
 # Eskimo Server [![NPM version](https://badge.fury.io/js/eskimo-server.png)](http://badge.fury.io/js/eskimo-server)
 
-Eskimo server is a component used by [`eskimo`](https://github.com/niftylettuce/eskimo-server) for starting a server and/or cluster.
+Eskimo server is a component used by [`eskimo`](https://github.com/niftylettuce/eskimo) for starting a server and/or cluster.
 
 
 ## Contributors
